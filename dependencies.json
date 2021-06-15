@@ -1,0 +1,17 @@
+{
+    "sentry": {
+        "path": "http://path/artifactory/generic-local/sentry_a70b6ec3.7z",
+        "lastModified": "Wed, 14 Oct 2020 03:01:36 GMT",
+        "filesize": "1497093"
+    },
+    "Qt": {
+        "path": "http://path/share/qt.zip",
+        "lastModified": "Tue, 14 May 2019 07:16:55 GMT",
+        "filesize": "539332725"
+    },
+    "Xgboost": {
+        "path": "http://path/artifactory/generic-local/dmlc_xgboost.7z",
+        "lastModified": "Wed, 20 Jan 2021 06:29:14 GMT",
+        "filesize": "1698735"
+    }
+}
